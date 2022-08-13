@@ -26,7 +26,7 @@ HTML Logo   CSS Logo   JavaScript Logo   React Logo   Node.JS Logo   MongoDB Log
 
 🔥 My Stats :
 
-   [1]: http://www.github.com/your_contact_info
+   [1]: http://www.github.com/boyaniliew/
 [2]: https://www.linkedin.com/in/your_contact_info
 [3]: https://www.facebook.com/your_contact_info
 
