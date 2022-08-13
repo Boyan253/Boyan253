@@ -26,11 +26,9 @@ HTML Logo   CSS Logo   JavaScript Logo   React Logo   Node.JS Logo   MongoDB Log
 
 🔥 My Stats :
 
-      
-       
-       
-       
-       https://www.instagram.com/boyaniliew/
+   [1]: http://www.github.com/your_contact_info
+[2]: https://www.linkedin.com/in/your_contact_info
+[3]: https://www.facebook.com/your_contact_info
 
 - 👋 Hi, I’m @Boyan253
 - 👀 I’m interested in ...
