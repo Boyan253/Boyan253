@@ -26,7 +26,9 @@ HTML Logo   CSS Logo   JavaScript Logo   React Logo   Node.JS Logo   MongoDB Log
 
 🔥 My Stats :
 
-                                                                   
+       https://github-stats.com/nuxt/framework
+       
+       -stats
 
 - 👋 Hi, I’m @Boyan253
 - 👀 I’m interested in ...
