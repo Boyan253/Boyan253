@@ -46,7 +46,7 @@ You can click the Preview link to take a look at your changes.
   <section>
    <h3 align="left">📫 Connect with me:</h3>
    <p align="left">
-      <a href="https://twitter.com/b_chernev" target="blank">
+      <a href="https://twitter.com/BoqnGeorgiev3" target="blank">
          <img align="center" src="https://user-images.githubusercontent.com/97783740/169658249-eab2fd11-1130-4729-a4c4-9759bf9c961c.png" alt="b_chernev" height="32" width="32">
       </a>
       <a href="https://www.linkedin.com/in/borislav-chernev06/" target="blank">
