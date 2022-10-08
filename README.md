@@ -51,7 +51,7 @@ You can click the Preview link to take a look at your changes.
       <a href="https://www.linkedin.com/in/borislav-chernev06/" target="blank">
          <img align="center" src="https://user-images.githubusercontent.com/97783740/169655216-657e260b-a971-44ed-9e2c-52fcba72954c.png" alt="borislav chernev" height="32" width="32">
       </a>
-      <a href="https://instagram.com/borislav.chernev" target="blank">
+      <a href="https://www.instagram.com/boyaniliew/" target="blank">
          <img align="center" src="https://user-images.githubusercontent.com/97783740/169657937-4ca20fc6-e91d-475c-ac2d-c21110a3702f.png" alt="borislav.chernev" height="32" width="32">
       </a>
       <a href="https://discord.gg/4svmCGP" target="blank">
