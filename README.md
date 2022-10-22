@@ -32,7 +32,7 @@ HTML Logo   CSS Logo   JavaScript Logo   React Logo   Node.JS Logo   MongoDB Log
 
 
                                                                 - 👀 -
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JS
 
 - 📫 How to reach me |
                      \/
