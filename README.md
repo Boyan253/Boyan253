@@ -103,4 +103,5 @@ You can click the Preview link to take a look at your changes.
    </a>
   </section>
 </div>
-  file:///C:/Users/bobob/Downloads/github-user-contribution.svg
+  - name: generate-snake-game-from-github-contribution-grid
+  uses: Platane/snk@v2.1.0
