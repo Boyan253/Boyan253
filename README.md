@@ -102,4 +102,4 @@ You can click the Preview link to take a look at your changes.
    </a>
   </section>
 </div>
-https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
+github-contribution-grid-snake.gif
