@@ -27,7 +27,7 @@
 
   </section>
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Boyan253/github-profile-trophy)
   
   <section>
     <h3 align="left">Tools:</h3>
