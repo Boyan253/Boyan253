@@ -26,9 +26,9 @@
    </a>
 
   </section>
-<article>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Boyan253/github-profile-trophy)
-  </article>
+
   <section>
     <h3 align="left">Tools:</h3>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
