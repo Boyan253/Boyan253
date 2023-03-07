@@ -6,7 +6,7 @@
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/Boyan253/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Boyan253-ma&theme=onedark)](https://github.com/Boyan253/github-profile-trophy)
 
 
 
