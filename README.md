@@ -18,7 +18,7 @@
 
 
                                                                 - 👀 -
-- 🌱 I’m currently learning JS
+- 🌱 I’m currently learning React
 
 - 📫 How to reach me |
                      \/
