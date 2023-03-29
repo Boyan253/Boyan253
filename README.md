@@ -22,13 +22,7 @@ I'm an 18 years old software engineer student from Bulgaria who is extremely mot
 These are the technologies I use most often when it comes to Web development:
 
 <section>
-   <h3 align="left">Languages and Frameworks:</h3>
-   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40">
-   </a>
-   <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/97783740/170877386-e79c36be-c77a-46af-89d8-8e1bba576f52.png" alt="dotnet" width="40" height="40">
-   </a>
+ 
          <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/197574781-2644be66-7689-41c0-87da-39912ed548f4.png" alt="bootstrap" width="40" height="40">
    </a>
