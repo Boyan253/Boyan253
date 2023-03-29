@@ -21,7 +21,8 @@ I'm an 18 years old software engineer student from Bulgaria who is extremely mot
 🛠️ Languages and Tools
 These are the technologies I use most often when it comes to Web development:
 
-HTML Logo   CSS Logo   JavaScript Logo   React Logo   Node.JS Logo   MongoDB Logo   Sass Logo   Bootstrap Logo
+Languages and Frameworks:
+csharp dotnet bootstrap html css sass jquery javascript node.js
 
 🔥 My Stats :
 
