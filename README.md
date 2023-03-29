@@ -4,13 +4,13 @@
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-I'm a 20 years old software engineer student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.
+I'm an 18 years old software engineer student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.
 
 👉 About Me
 
 💡 How can I develop a great software that customers would love? That's the question I ask myself every single time when I have to do а project, whether it's for university or for work. In each case it has come down to creativity and experience.
 
-🎓 At the moment, I'm a junior student at Technical University of Sofia, studying Software and Internet technologies and also Web Development at SoftUni Bulgaria. In my 1 1/2 years of education and practice, I went through many programming languages such as C/C++, Java, JavaScript, PHP, C#, Python but my personal favorite is JavaScript and its Angular framework. Since kid, I have was always been interested in creating whatever my mind has in it and visualizing it. That's why I want to become a Frontend Web Developer and slowly build my way up, until I reach my dream Fullstack position.
+🎓 At the moment, I'm a junior student at SoftUni Bulgaria. In my 1 1/2 years of education and practice, I went through many programming languages such as C/C++, Java, JavaScript, C#, Python but my personal favorite is JavaScript and its React framework. Since kid, I have was always been interested in creating whatever my mind has in it and visualizing it. That's why I want to become a Frontend Web Developer and slowly build my way up, until I reach my dream Fullstack position.
 
 💻 As a developer I'm trying my best to create things that are unique. I use algorithms, design patterns and engineering principles to craft and mold products that the customers would love. At the same time I'm efficient and perfectionist - everything I do has to be perfect. I have to be creative to put all these pieces together.
 
