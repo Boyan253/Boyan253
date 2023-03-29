@@ -23,9 +23,7 @@ These are the technologies I use most often when it comes to Web development:
 
 <section>
  
-         <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-      <img src="https://user-images.githubusercontent.com/97783740/197574781-2644be66-7689-41c0-87da-39912ed548f4.png" alt="bootstrap" width="40" height="40">
-   </a>
+         
    <a href="https://html.com/" target="_blank" rel="noreferrer">
       <img src="https://user-images.githubusercontent.com/97783740/174045990-7e313e95-b1b7-40c8-a3c8-7b277822098b.png" alt="html" width="40" height="40">
    </a>
