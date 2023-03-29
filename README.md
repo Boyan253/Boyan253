@@ -56,7 +56,7 @@ These are the technologies I use most often when it comes to Web development:
 
 🔥 My Stats :
 
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Boyan253)](https://github.com/ryo-ma/github-profile-trophy) -->
+ [![trophy](https://github-profile-trophy.vercel.app/?username=Boyan253)](https://github.com/ryo-ma/github-profile-trophy) 
 
 
 
