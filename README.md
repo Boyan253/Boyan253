@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-[![Watch the video]<iframe width="956" height="538" src="https://www.youtube.com/embed/nUA8OzQxGxE" title="SKRILLEX &amp; THE DOORS - BREAKN&#39; A SWEAT" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Watch the video]https://youtu.be/nUA8OzQxGxE
 
 I'm an 18 years old software engineer student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.
 
