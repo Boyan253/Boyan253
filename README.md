@@ -5,7 +5,8 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-[![Watch the video](https://youtu.be/grA871Cvbeo)
+[![Watch the video](https://img.youtube.com/vi/grA871Cvbeo/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID_HERE)
+
 
 I'm an 18 years old software engineer student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.
 
