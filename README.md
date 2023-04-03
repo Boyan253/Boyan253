@@ -73,7 +73,7 @@ These are the technologies I use most often when it comes to Web development:
                      \/
                      
                      
-[![My Skills](https://skillicons.dev/icons?i=instagram)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)]([https://skillicons.de](https://www.linkedin.com/in/boyan-iliev-84857b270/)
 
 
   <section>
