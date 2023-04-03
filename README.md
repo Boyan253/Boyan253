@@ -71,7 +71,7 @@ These are the technologies I use most often when it comes to Web development:
 
 - 📫 How to reach me |
                      \/
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
   <section>
     <h3 align="left">Tools:</h3>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer">
