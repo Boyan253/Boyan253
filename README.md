@@ -59,7 +59,7 @@ These are the technologies I use most often when it comes to Web development:
 
 
 
-🔥 My Stats :
+
 
 [1]: http://www.github.com/boyaniliew/
 [2]: https://www.linkedin.com/in/your_contact_info
