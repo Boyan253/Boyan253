@@ -11,7 +11,7 @@
 
 
 
-I'm an 18 years old software engineer student from Bulgaria who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.
+I'm an 18 years old software engineer student from Bulgaria, who is extremely motivated to learn something new every single day and also to gain experience in the field of Fullstack Development.
 
 👉 About Me
 
