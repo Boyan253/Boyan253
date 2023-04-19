@@ -24,9 +24,11 @@ I'm an 18 years old software engineer student from Bulgaria, who is extremely mo
 👨‍💻 Currently, I'm unemployed but I'm looking for interships and junior positions as a Web developer to get the necessary knowledge and work experience in the field of information technologies and software development.
 
 
-[![](https://raw.githubusercontent.com/Boyan253/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/Boyan253/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/Boyan253/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/Boyan253/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/Boyan253/github-profile-summary-cards)
+
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/Boyan253/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/Boyan253/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/Boyan253/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/vn7n24fzkq/github-profile-summary-cards-example/master/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/Boyan253/github-profile-summary-cards)
+
 
 
 👑 I'm a life long learner. I would like to become a Web developer and maybe in the future, I would like to teach people some JavaScript or the MERN stack. I'm a quick learner and I'm trying to work as fast as I can. I'm also a self-learner - sometimes, when I'm bored, I like to do some simple projects to maintain and eventually improve my skills.
