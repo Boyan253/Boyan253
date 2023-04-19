@@ -33,6 +33,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Boyan253&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=username&bg_color=ffffff&color=808080&line=808080&point=000000&area=true&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Boyan253&icon=0&color=0)](https://visitcount.itsvg.in)
