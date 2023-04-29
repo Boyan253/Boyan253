@@ -1,6 +1,6 @@
 
                                                                    Hi 👋, I'm Boyan.
-                            hard to code but fear not, jesus was coding this world harder than the game you are trying to code.
+                            hard to code, but fear not, jesus was coding this world harder than the game you are trying to code.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
