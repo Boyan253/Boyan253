@@ -9,8 +9,8 @@
 
 
 
- 💫 About Me:
-<br>I'm a Full-Stack Software Engineer.<br>👨‍💻 Currently, I'm Software Engineer at Gameloft/Ubisoft Sofia/KeenAgentsJSC.<br><br>
+ About Me:
+<br>I'm a Full-Stack Software Engineer.<br> Currently, I'm Software Engineer at Gameloft/Ubisoft Sofia/KeenAgentsJSC.<br><br>
 
 
 ## 🌐 Socials:
