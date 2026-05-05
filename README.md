@@ -1,42 +1,94 @@
+<div align="center">
 
-                                                                   Hi, 👋 I'm Boyan.
-                      
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:06B6D4&height=200&section=header&text=Boyan%20Iliev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Automation&descSize=16&descAlignY=55" width="100%"/>
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1E40AF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+automation+systems;Full-stack+engineer+%7C+Node.js+%2B+React;Founder+%40+AutomatON)](https://git.io/typing-svg)
 
+</div>
 
-<!-- -------------------------------[![Watch the video](https://img.youtube.com/vi/grA871Cvbeo/0.jpg)](https://www.youtube.com/watch?v=grA871Cvbeo)----------------------------- -->
+---
 
+### About
 
+Software Engineer building AI automation systems. Currently working on **AutomatON** — an AI Software Factory that automates document processing, accounting workflows, and business operations for enterprise clients.
 
- About Me:
-<br>I'm a Full-Stack Software Engineer.<br> Currently, I'm Software Engineer at Gameloft/Ubisoft Sofia/KeenAgentsJSC.<br><br>
+By day: Software Engineer at Gameloft/Ubisoft Sofia.
+By night: Building the future of business automation.
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boyan-iliev) 
-<!--
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
+### What I'm Working On
+
+```yaml
+AutomatON:
+  product: "AI-powered document processing & accounting automation"
+  stack: "Node.js, Express, SQLite, Claude/Gemini/GPT Vision APIs"
+  status: "Live with enterprise clients"
+  features:
+    - OCR + AI extraction from invoices (PDF, images, emails)
+    - Automatic accounting entries with learning memory
+    - 18 export adapters (NetSuite, SAP, NAP Bulgaria, etc.)
+    - Multi-client SaaS with RBAC and 2FA
+```
+
+---
+
+### Tech Stack
 
 <div align="center">
 
-# 📊 GitHub Stats:
-<div style="display:inline-block;width:50%;">
-  
-![](https://github-readme-stats.vercel.app/api?username=Boyan253&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Boyan253&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Boyan253&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 </div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Boyan253&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=Boyan253&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![github-contribution-grid-snake](https://user-images.githubusercontent.com/97385003/207389019-23943b5c-2f69-4799-ac69-3d2a3765444e.gif)
+### AI & Automation
+
+<div align="center">
+
+![Claude](https://img.shields.io/badge/Claude_API-191919?style=flat-square&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
+![OCR](https://img.shields.io/badge/Vision_OCR-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-0066FF?style=flat-square&logo=spacy&logoColor=white)
+
 </div>
 
-  
+---
+
+### Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Boyan253&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Boyan253&theme=tokyonight&hide_border=true" height="165"/>
+
+</div>
+
+---
+
+### Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boyan-iliev)
+[![AutomatON](https://img.shields.io/badge/AutomatON-1E40AF?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/AutomatonAgents)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boyan.georgiev.iliev@gmail.com)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:06B6D4&height=100&section=footer" width="100%"/>
