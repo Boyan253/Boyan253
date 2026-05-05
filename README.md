@@ -70,15 +70,6 @@ AutomatON:
 
 ---
 
-### Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Boyan253&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Boyan253&theme=tokyonight&hide_border=true" height="165"/>
-
-</div>
-
 ---
 
 ### Connect
