@@ -85,7 +85,7 @@ AutomatON:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/boyan-iliev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/boyan-iliev-84857b270/)
 [![AutomatON](https://img.shields.io/badge/AutomatON-1E40AF?style=for-the-badge&logo=robot&logoColor=white)](https://github.com/AutomatonAgents)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:boyan.georgiev.iliev@gmail.com)
 
