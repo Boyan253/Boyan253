@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,100:06B6D4&height=200&section=header&text=Boyan%20Iliev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20AI%20Systems%20%7C%20Automation&descSize=16&descAlignY=55" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1E40AF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+automation+systems;Full-stack+engineer+%7C+Node.js+%2B+React;Founder+%40+AutomatON)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=1E40AF&center=true&vCenter=true&random=false&width=600&lines=Building+AI-powered+automation+systems;Full-stack+engineer+%7C+Node.js+%2B+React;Founder+%40+WorkMatic)](https://git.io/typing-svg)
 
 </div>
 
