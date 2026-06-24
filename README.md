@@ -8,7 +8,7 @@
 
 ---
 
-### About
+###About
 
 Software Engineer building AI automation systems. Currently working on **WorkMatic** — an AI Software Factory that automates document processing, accounting workflows, and business operations for enterprise clients.
 
