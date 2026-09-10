@@ -10,7 +10,7 @@
 
 ### About
 
-Software Engineer building AI automation systems. Currently working on **WorkMatic** — an AI Software Factory that automates document processing, accounting workflows, and business operations for enterprise clients.
+Software Engineer building AI automation systems Currently working on **WorkMatic** — an AI Software Factory that automates document processing, accounting workflows, and business operations for enterprise clients.
 
 By day: Software Engineer at Gameloft/Ubisoft Sofia.
 By night: Building the future of business automation.
